@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "好きな人がいること",
+  "base_artist": "JY",
+  "createdAt": "2026-02-19T13:42:17.870413Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "好きな人がいること -Seiho Remix-",
+      "artist": "JY",
+      "has_synced": false,
+      "path": "select/01_好きな人がいること_-Seiho_Remix-_JY.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "好きな人がいること-Piano Slow Edit.-",
+      "artist": "JY",
+      "has_synced": true,
+      "path": "select/02_好きな人がいること-Piano_Slow_Edit.-_JY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "好きな人がいること -Seiho Remix-",
+      "artist": "JY",
+      "has_synced": true,
+      "path": "select/03_好きな人がいること_-Seiho_Remix-_JY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "好きな人がいること",
+      "artist": "JY",
+      "has_synced": true,
+      "path": "select/04_好きな人がいること_JY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "好きな人がいること",
+      "artist": "JY",
+      "has_synced": false,
+      "path": "select/pl_01_好きな人がいること_JY.txt"
+    }
+  ]
+}
